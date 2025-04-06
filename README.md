@@ -86,3 +86,7 @@
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](Chapter-V.md#52x6-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](Chapter-V.md#52x7-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](Chapter-V.md#52x8-team-collaboration-insights-during-sprint)
+
+- [Conclusiones](#conclusiones-recomendaciones-about-the-team)
+- [Bibliografía](#bibliografía)
+- [Anexos](#anexos)
